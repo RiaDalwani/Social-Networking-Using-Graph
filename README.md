@@ -1,6 +1,6 @@
-# RUBOR - Console-Based Social Network in C
+# FRIENDS - Console-Based Social Network in C
 
-RUBOR (Red of Users Based On Relationships) is a simple, command-line social network simulation program written in C. Users can connect with each other, manage friendships, explore mutual friends, and discover the shortest connection path between two people using Breadth-First Search (BFS).
+FRIENDS is a simple, command-line social network simulation program written in C. Users can connect with each other, manage friendships, explore mutual friends, and discover the shortest connection path between two people using Breadth-First Search (BFS).
 
 ## 🚀 Features
 
